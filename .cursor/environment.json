@@ -1,0 +1,4 @@
+{
+  "name": "health-coach",
+  "install": "npm install && npm test"
+}
